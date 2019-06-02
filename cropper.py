@@ -1,9 +1,6 @@
 import os
 from PIL import Image, ImageChops, ImageOps
 from PIL import Image
-import numpy as np
-
-#image = Image.open('./images/acorns_logo.png')
 
 
 def calculate_aspect(width: int, height: int):
